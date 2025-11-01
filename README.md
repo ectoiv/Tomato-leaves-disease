@@ -20,3 +20,13 @@ This project has been built along with yolov8m - cls model by contrast of applic
 Instruction on how to install and setup the project
 
 * For developers:
+- Clone this repository into your personal computer. Download the trained - model: <a href="https://drive.google.com/drive/folders/1V3tzHbaabjRSl91s4hcZyw09UhDDWwky?usp=sharing" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/model-blue" alt="MODEL" width="160" height="40">
+</a>
+- Full of train, deploy script (python code) located in the scripts folder.
+- Using train.py to retrain or update the model with your own dataset.
+
+* For users (- Coming soon):
+- Open google play or app store.
+- Download the _____ for free.
+- Give access for the app to upload images from your device.
+- Choose the exact image that you want to check.
