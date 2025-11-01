@@ -10,4 +10,7 @@ A computer vision model trained via ultralytics library, to detect tomato leaf d
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 </div>
-
+##A fully functional project written in detecting tomato leaf disease
+This project has been built along with yolov8m - cls model by contrast of application in helping farmers and industrialization of the agricultural sector. Combine using flutter library and computer vision model, using websocket as a bridge to reduce burden for low devices is a big advantage.
+##INSTALLIATION
+Instruction on how to install and setup the project
