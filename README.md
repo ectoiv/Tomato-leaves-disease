@@ -19,9 +19,9 @@ This project has been built along with yolov8m - cls model by contrast of applic
 
 Instruction on how to install and setup the project
 
-* 1.For developers:
+1. For developers:
 
-** Clone this repository into your personal computer. Download the trained - model: <a href="https://drive.google.com/drive/folders/1V3tzHbaabjRSl91s4hcZyw09UhDDWwky?usp=sharing" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/model-blue" alt="MODEL" width="160" height="40">
+* Clone this repository into your personal computer. Download the trained - model: <a href="https://drive.google.com/drive/folders/1V3tzHbaabjRSl91s4hcZyw09UhDDWwky?usp=sharing" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/model-blue" alt="MODEL" width="80" height="20">
 </a>
 
 - Full of train, deploy script (python code) located in the scripts folder.
