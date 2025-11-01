@@ -25,6 +25,7 @@ Instruction on how to install and setup the project
 
  - Full of train, deploy script (python code) located in the scripts folder.
  - Using train.py to retrain or update the model with your own dataset.
+ - Use the run.py code to deploy the model. Remember to re-config at line 10 and 11.
 2. For users (- Coming soon):
  - Open google play or app store.
  - Download the _____ for free.
