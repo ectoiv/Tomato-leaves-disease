@@ -18,3 +18,5 @@ This project has been built along with yolov8m - cls model by contrast of applic
 ## INSTALLIATION
 
 Instruction on how to install and setup the project
+
+* For developers:
