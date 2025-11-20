@@ -22,11 +22,7 @@ Instruction on how to install and setup the project
 1. For developers:
 
  *  Clone this repository into your personal computer. Download the trained model: 
-<a href="https://drive.google.com/drive/folders/1V3tzHbaabjRSl91s4hcZyw09UhDDWwky?usp=sharing" 
-   rel="noopener noreferrer">
-   <img src="https://img.shields.io/badge/Download_Model-blue" alt="MODEL" width="100" height="20">
-</a>
-
+[![Download Model](https://img.shields.io/badge/Download_Model-blue)](https://drive.google.com/drive/folders/1V3tzHbaabjRSl91s4hcZyw09UhDDWwky?usp=sharing)
  - Full of train, deploy script (python code) located in the scripts folder.
  - Using train.py to retrain or update the model with your own dataset.
  - Use the run.py code to deploy the model. Remember to re-config at line 10 and 11.
